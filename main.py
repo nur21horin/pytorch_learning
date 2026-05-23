@@ -33,3 +33,9 @@ Tensor_shape=torch.tensor([
 ])
 
 print(Tensor_shape.shape)
+
+#tensor random
+
+random_tensor=torch.rand(3,3)
+
+print(random_tensor)
